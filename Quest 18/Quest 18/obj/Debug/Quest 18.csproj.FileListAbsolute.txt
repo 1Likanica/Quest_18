@@ -1,0 +1,20 @@
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form1.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Properties.Resources.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\Quest 18.exe.config
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\Quest 18.exe
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\Quest 18.pdb
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\MySql.Data.dll
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\MySql.Data.xml
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.csproj.CopyComplete
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.exe
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest 18.pdb
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form2.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form3.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\MetroFramework.dll
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form4.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form5.resources
+C:\Users\Student\source\repos\QUEST18\Quest 18\Quest 18\obj\Debug\Quest_18.Form6.resources
